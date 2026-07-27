@@ -31,3 +31,4 @@ A wireless physical audio controller and MIDI interface built with **ESP32 DevKi
 ---
 
 ## 📐 Wiring Diagram
+<img width="2816" height="1536" alt="Gemini_Generated_Image_k3akk1k3akk1k3ak" src="https://github.com/user-attachments/assets/f4c082fc-fa8e-4c42-8041-43b78ace8260" />
